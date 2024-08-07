@@ -1,5 +1,3 @@
-import React from "react";
-
 const Loading = ({ theme }) => {
   return (
     <div className="d-flex justify-content-center m-auto">
